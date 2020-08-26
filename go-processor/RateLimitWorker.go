@@ -1,4 +1,4 @@
-package rate_limit
+package main
 
 type RateLimitWorker interface {
 	// total number of work to be done
