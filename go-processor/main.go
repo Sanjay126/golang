@@ -4,8 +4,6 @@ import (
 	"encoding/csv"
 	"flag"
 	"github.com/gocarina/gocsv"
-	"github.com/vivekkundariya/go-batch-processor/rate_limit"
-	"github.com/vivekkundariya/go-batch-processor/rate_limit/event"
 	"io/ioutil"
 	"os"
 	"strings"
